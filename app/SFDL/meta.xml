@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.8.0">
+    <name>Splatfest DL+</name>
+    <coder>Sheldon</coder>
+	<url>https://discord.gg/grMSxZf</url>
+    <version>0.9.0</version>
+    <release_date>202203270000000</release_date>
+    <short_description>Play custom Splatfests!</short_description>
+	<long_description>The new and improved SplatfestDL+!
+
+This tool allows you to play custom Splatfests in Splatoon. For more information, join the Custom Splatfest discord server at https://discord.gg/grMSxZf. I am not responsible if anything bad happens.
+</long_description>
+	<category>tool</category>
+</app>

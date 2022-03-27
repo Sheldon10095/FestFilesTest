@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.5.6">
+    <name>Splatfest ModLoader</name>
+    <coder>Sheldon</coder>
+	<url>https://discord.gg/grMSxZf</url>
+    <version>0.5.6</version>
+    <release_date>202203270000000</release_date>
+    <short_description>Custom Splatfest ModLoader!</short_description>
+	<long_description>Splatoon Custom Splatfest launcher!
+	I am not responsible if anything bad happens. You can only play Splatfest Battles with SplatfestDL when a Splatfest is happening, but patches should always work!
+	Current Patches:
+	 • Power Reset (New and Improved!)
+	
+	BACK UP YOUR SAVE JUST IN CASE ANYTHING GOES WRONG!
+</long_description>
+	<category>tool</category>
+</app>
