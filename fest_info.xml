@@ -1,0 +1,24 @@
+<root>
+    <files>
+        <file>
+            <sourceURL>http://www.example.com/file1.txt</sourceURL>
+            <destPath>file1.txt</destPath>
+            <crc32>12345678</crc32>
+        </file>
+        <file>
+            <sourceURL>http://www.example.com/file2.txt</sourceURL>
+            <destPath>file2.txt</destPath>
+            <crc32>12345678</crc32>
+        </file>
+        <file>
+            <sourceURL>http://www.example.com/file3.txt</sourceURL>
+            <destPath>file3.txt</destPath>
+            <crc32>12345678</crc32>
+        </file>
+    </files>
+    <info>
+        <startTime>1648166400</startTime>
+        <endTime>1648598400</endTime>
+        <isSpecial>0</isSpecial>
+    </info>
+</root>
