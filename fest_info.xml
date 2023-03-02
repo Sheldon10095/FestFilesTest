@@ -3,22 +3,34 @@
         <file>
             <sourceURL>http://www.example.com/file1.txt</sourceURL>
             <destPath>file1.txt</destPath>
-            <crc32>12345678</crc32>
+            <crc32>1870457640</crc32>
         </file>
         <file>
             <sourceURL>http://www.example.com/file2.txt</sourceURL>
             <destPath>file2.txt</destPath>
-            <crc32>12345678</crc32>
+            <crc32>0</crc32>
         </file>
         <file>
             <sourceURL>http://www.example.com/file3.txt</sourceURL>
             <destPath>file3.txt</destPath>
             <crc32>12345678</crc32>
         </file>
+        
+        <file>
+            <sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS06.bfstm</sourceURL>
+            <destPath>sd:/splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS06.bfstm</destPath>
+            <crc32>579588377</crc32>
+        </file>
+        <file>
+            <sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS07.bfstm</sourceURL>
+            <destPath>sd:/splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS07.bfstm</destPath>
+            <crc32>579588377</crc32>
+        </file>
+
     </files>
     <info>
-        <startTime>1648166400</startTime>
-        <endTime>1648598400</endTime>
+        <startTime>1677790800</startTime>
+        <endTime>1677794400</endTime>
         <isSpecial>1</isSpecial>
     </info>
 </root>
