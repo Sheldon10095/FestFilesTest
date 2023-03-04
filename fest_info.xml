@@ -1,1 +1,20 @@
-<root><files><file><sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS06.bfstm</sourceURL><destPath>splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS06.bfstm</destPath><crc32>579588377</crc32></file><file><sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS07.bfstm</sourceURL><destPath>splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS07.bfstm</destPath><crc32>3506365270</crc32></file></files><info><startTime>1677790800</startTime><endTime>1677794400</endTime><isSpecial>1</isSpecial></info></root>
+<root>
+    <files>
+        <file>
+            <sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS06.bfstm</sourceURL>
+            <destPath>splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS06.bfstm</destPath>
+            <crc32>579588377</crc32>
+        </file>
+        <file>
+            <sourceURL>http://raw.githubusercontent.com/Sheldon10095/Splatfestival_StaffFiles/master/ExtraFiles/Sound/Resource/Stream/STRM_VS07.bfstm</sourceURL>
+            <destPath>splatfestival/sdcafiine/0005000010176900/Pack1/content/Sound/Resource/Stream/STRM_VS07.bfstm</destPath>
+            <crc32>3506365270</crc32>
+        </file>
+    </files>
+    <info>
+        <startTime>1677790800</startTime>
+        <endTime>1677794400</endTime>
+        <isSpecial>1</isSpecial>
+        <revNum>1</revNum>
+    </info>
+</root>
